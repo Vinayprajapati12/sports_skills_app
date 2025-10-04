@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Dribbling",
+    "level": "Basic",
+    "image": "assets/images/dribbling.png"
+  },
+  {
+    "name": "Passing",
+    "level": "Basic",
+    "image": "assets/images/passing.png"
+  },
+  {
+    "name": "Shooting",
+    "level": "Basic",
+    "image": "assets/images/shooting.png"
+  },
+  {
+    "name": "Vault",
+    "level": "Intermediate",
+    "image": "assets/images/vault.png"
+  },
+  {
+    "name": "Tackling",
+    "level": "Intermediate",
+    "image": "assets/images/tackling.png"
+  },
+  {
+    "name": "Coordination",
+    "level": "Intermediate",
+    "image": "assets/images/coordination.png"
+  },
+  {
+    "name": "Agility",
+    "level": "Advanced",
+    "image": "assets/images/agility.png"
+  },
+  {
+    "name": "Strategy",
+    "level": "Advanced",
+    "image": "assets/images/strategy.png"
+  },
+  {
+    "name": "Endurance",
+    "level": "Advanced",
+    "image": "assets/images/endurance.png"
+  }
+]
