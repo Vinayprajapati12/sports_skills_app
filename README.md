@@ -1,21 +1,35 @@
-<<<<<<< HEAD
-# sports_skills_app
-A Flutter internship assignment app that shows sports skills in clean, scrollable carousels grouped by level.
-=======
-# sports_tech_app
+# 🏀 Sports Skills App
 
-A new Flutter project.
+A simple Flutter app built as part of the **Flutter Developer Internship Assignment**.  
+The app displays sports skills grouped by **Basic → Intermediate → Advanced** with smooth horizontal scrolling.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshot
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20251004_102700](https://github.com/user-attachments/assets/a17bb5f0-7bc8-4e2a-9fb1-213c20b72f64)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 2fb2c55 (initial commit)
+---
+
+## 🎥 Demo Video
+
+![Image](https://github.com/user-attachments/assets/cf7cc4f5-446a-4ca7-aab4-6d90ab149b83)
+
+---
+
+## 🚀 Features
+
+- Parse skills from JSON
+- Group skills into **Basic**, **Intermediate**, **Advanced**
+- Smooth horizontal scrolling for each section
+- Clean card-based UI with **image + name**
+
+---
+
+## 🛠️ Tech Stack
+
+- Flutter (latest SDK)  
+- Dart  
+- Material Design  
+
